@@ -11,14 +11,15 @@ const Home = () => {
             .then(data => setLanguages(data))
     }, []);
 
+
     return (
-        <div>
-            <h1>Home</h1>
-            <div className=" container-fluid row mx-auto">
-                {
-                    languages?.map(language => <HomeCard language={language}></HomeCard>)
-                }
-            </div>
+        <div className=" container-fluid row mx-auto">
+            {
+                languages?.map(language => <HomeCard
+                    key={language.id}
+                    language={language}
+                ></HomeCard>)
+            }
 
         </div>
     );

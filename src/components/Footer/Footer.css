@@ -1,0 +1,10 @@
+.bg-footer{
+    background-color: rgb(63, 61, 35);
+}
+.footer a{
+    text-decoration: none;
+    color: rgb(240, 231, 231);
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
