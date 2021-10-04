@@ -14,7 +14,7 @@ const Services = () => {
         <div className=" container-fluid row mx-auto my-3" style={{ background: 'rgb(191, 220, 236)' }}>
             {
                 languages?.map((language) => (
-                    <div className="col-md-4 g-3 p-3 rounded-3" style={{ border: '1px solid skyblue', }}>
+                    <div className="col-md-4 g-3 p-3 rounded-3" style={{ border: '1px solid skyblue', }} key={language.id}>
                         <div>
                             <img className="img-fluid p-1 w-50" src={language?.img} alt="" />
                         </div>
