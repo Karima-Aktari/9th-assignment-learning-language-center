@@ -46,5 +46,21 @@
         "ageLimit": "10 - 45",
         "description": "Communication skill is very essential for everyone.And language is the first and most important way to communicate others.But which language do you need to know?Definitely it depends on your communication area.",
         "img": "https://content.wdl.org/9700/thumbnail/1431369637/616x510.jpg"
+    },
+    {
+        "id": "7lChns",
+        "name": "Chines",
+        "price": 350,
+        "ageLimit": "15 - 40",
+        "description": "Communication skill is very essential for everyone.And language is the first and most important way to communicate others.But which language do you need to know?Definitely it depends on your communication area.",
+        "img": "https://manavrachna.edu.in/wp-content/uploads/2017/05/10-reasons-to-start-learning-Mandarin-now.jpg"
+    },
+    {
+        "id": "8lHndi",
+        "name": "Hindi",
+        "price": 350,
+        "ageLimit": "10 - 35",
+        "description": "Communication skill is very essential for everyone.And language is the first and most important way to communicate others.But which language do you need to know?Definitely it depends on your communication area.",
+        "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202001/hindi.png?L62R852YTzNZ2RDvcL._epCSFBxhBC_8&size=770:433"
     }
 ]
