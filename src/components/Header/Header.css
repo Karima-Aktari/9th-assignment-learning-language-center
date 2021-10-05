@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .header-img{
   background-image: url("https://estatic.languagecourse.net/images/schools/thumbs_school_page_slider/meridian-language-center-vienna_16243689061705.jpg");
   height: 60vh;

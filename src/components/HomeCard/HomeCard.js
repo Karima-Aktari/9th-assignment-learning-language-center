@@ -3,7 +3,7 @@ import './HomeCard.css';
 import { NavLink } from 'react-router-dom';
 
 const HomeCard = (props) => {
-    const { id, img, name, price, description } = props.language;
+    const { id, img, name, price } = props.language;
 
 
     return (
