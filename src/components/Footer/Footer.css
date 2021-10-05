@@ -1,7 +1,7 @@
 .bg-footer{
     background-color: rgb(63, 61, 35);
-    background-position: 0;
-    /* max-width: 100%; */
+    background: position x 0;
+     /* max-width: 100%;  */
     background-size:cover;
     overflow-x: hidden;
 }
@@ -11,4 +11,4 @@
     padding-right: 15px;
     padding: 10px;
     font-size: 20px;
-}
+} 
