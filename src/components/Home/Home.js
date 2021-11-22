@@ -5,6 +5,7 @@ import './Home.css';
 
 const Home = () => {
     const [languages, setLanguages] = useState([]);
+    // fetch data
     useEffect(() => {
         fetch('./services.JSON')
             .then(res => res.json())
